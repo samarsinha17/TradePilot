@@ -159,3 +159,7 @@ The CLI is intentionally quiet on success:
 - Short completion message
 
 Detailed INFO logs stay in the log files so the terminal remains easy to read during live trading.
+
+## License
+
+TradePilot is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
